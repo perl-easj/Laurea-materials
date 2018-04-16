@@ -1,0 +1,11 @@
+Intro
+OOBrushUp
+SOLID
+  (Patterns - prioritised)
+    Factory Method
+    Adapter
+    Template Method
+    Abstract Factory
+    Proxy
+    Chain of Responsibility
+Outro
