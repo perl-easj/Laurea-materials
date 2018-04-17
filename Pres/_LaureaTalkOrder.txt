@@ -3,8 +3,8 @@ OOBrushUp
 SOLID
   (Patterns - prioritised)
     Factory Method
-    Adapter
     Template Method
+    Adapter
     Abstract Factory
     Proxy
     Chain of Responsibility
